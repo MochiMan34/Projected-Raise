@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\obj\Debug\ProjectedRaises.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\bin\Debug\ProjectedRaises.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\bin\Debug\ProjectedRaises.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\bin\Debug\ProjectedRaises.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\obj\Debug\ProjectedRaises.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\ProjectedRaises\ProjectedRaises\obj\Debug\ProjectedRaises.pdb
